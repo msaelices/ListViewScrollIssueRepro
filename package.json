@@ -7,17 +7,17 @@
   "nativescript": {
     "id": "org.nativescript.application",
     "tns-ios": {
-      "version": "4.2.0"
+      "version": "5.3.1"
     },
     "tns-android": {
-      "version": "4.2.0"
+      "version": "5.3.1"
     }
   },
   "dependencies": {
     "nativescript-tailwind": "^1.0.4",
     "nativescript-theme-core": "^1.0.4",
-    "nativescript-vue": "^2.0.0-alpha.2",
-    "tns-core-modules": "^4.2.0"
+    "nativescript-vue": "^2.2.2",
+    "tns-core-modules": "^5.3.1"
   },
   "devDependencies": {
     "babel-traverse": "6.26.0",
