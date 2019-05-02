@@ -1,7 +1,7 @@
-<template>
+<template functional>
     <FlexboxLayout padding="10" flexDirection="column">
         <Label text="Title Something" fontWeight="bold"/>
-        <Label :text="item.text" textWrap="true"/>
+        <Label :text="props.item.text" textWrap="true"/>
     </FlexboxLayout>
 </template>
 <script>
